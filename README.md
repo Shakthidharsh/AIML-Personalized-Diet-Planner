@@ -1,3 +1,5 @@
+Submitted by Shakthi Dharshini
+
 # AI/ML-Based Personalized Diet Planner
 
 A full end-to-end AI/ML system that generates personalized weekly diet plans from medical reports.
