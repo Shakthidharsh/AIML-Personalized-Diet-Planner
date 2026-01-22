@@ -1,4 +1,4 @@
-Submitted by Shakthi Dharshini
+Submitted by Shakthi Dharshini - AIML DIET PLANNER PROJECT
 
 # AI/ML-Based Personalized Diet Planner
 
